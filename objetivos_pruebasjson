@@ -1,0 +1,60 @@
+[
+    {
+        "geo": {
+            "coordinates": [
+                -58.378094136714935,
+                -34.67049020445261
+            ],
+            "type": "Point"
+        },
+        "estado": "NUEVO",
+        "imagenes": [
+            "5dc748d28476663094e15c91",
+            "5dc7496edfa3b73461b1bd44"
+        ],
+        "_id": "larralde_gutenberg",
+        "__v": 7
+    },
+    {
+        "geo": {
+            "coordinates": [
+                -58.37734043598174,
+                -34.66938060502685
+            ],
+            "type": "Point"
+        },
+        "estado": "NUEVO",
+        "imagenes": [
+            "5dc74bfccd5d0c3730a7d5e5",
+            "5dc866df9d2f4f0b5d506462"
+        ],
+        "_id": "gutenberg_arredondo",
+        "__v": 55
+    },
+    {
+        "geo": {
+            "coordinates": [
+                -58.37953716516494,
+                -34.673015976746655
+            ],
+            "type": "Point"
+        },
+        "estado": "NUEVO",
+        "imagenes": [],
+        "_id": "frente",
+        "__v": 0
+    },
+    {
+        "geo": {
+            "coordinates": [
+                -58.278973,
+                -34.706023
+            ],
+            "type": "Point"
+        },
+        "estado": "NUEVO",
+        "imagenes": [],
+        "_id": "5de67aa43c790f3fc7b63005",
+        "__v": 0
+    }
+]
